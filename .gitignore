@@ -5,3 +5,8 @@ portfolio-details.html
 assets/img/portfolio
 assets/img/testimonials/*
 
+composer.json
+composer.lock
+
+mailer.php
+todo.html
